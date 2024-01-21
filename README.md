@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year computer science student at XYZ University. I'm passionate about software engineering and I'm currently looking for an internship opportunity to learn and grow as a software engineer.
+I'm a 3rd year computer science student at Mahidol University International College. I'm passionate about software engineering and I'm currently looking for an internship opportunity to learn and grow as a software engineer.
 
 ## Skills
 
