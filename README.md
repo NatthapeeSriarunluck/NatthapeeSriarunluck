@@ -4,7 +4,7 @@ I'm a 3rd year computer science student at Mahidol University International Coll
 
 ## Skills✏️
 
-- **Programming Languages:** Python, Java, C, C++
+- **Programming Languages:** Python, Java, C, C++, Rust, Scala
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
