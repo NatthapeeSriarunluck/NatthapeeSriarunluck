@@ -9,7 +9,7 @@ I'm a 3rd year computer science student at Mahidol University International Coll
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ## Experience👩🏻‍💼
-
+- **Internshipo**: Currently interning at Agoda as a Software Engineer: Backend. 
 - **Teaching Assistant** for ICCS101: Introduction to Programming (Python) course at Mahidol University International College.
 
 ## Contact Me📞
