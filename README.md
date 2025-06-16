@@ -8,8 +8,7 @@ I'm a 4th year computer science student at Mahidol University International Coll
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
-![](https://raw.githubusercontent.com/NatthapeeSriarunluck/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/NatthapeeSriarunluck/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Natthapee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatthapeeSriarunluck)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience👩🏻‍💼
 - **Internship**: Currently interning at Agoda as a Software Engineer: Backend. 
