@@ -8,7 +8,7 @@ I'm a 4th year computer science student at Mahidol University International Coll
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
-[![Natthapee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatthapeeSriarunluck&show_icons-true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Natthapee's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatthapeeSriarunluck&show_icons-true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) \\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatthapeeSriarunluck&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience👩🏻‍💼
