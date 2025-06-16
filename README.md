@@ -8,6 +8,9 @@ I'm a 4th year computer science student at Mahidol University International Coll
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
+![](https://raw.githubusercontent.com/NatthapeeSriarunluck/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NatthapeeSriarunluck/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ## Experience👩🏻‍💼
 - **Internship**: Currently interning at Agoda as a Software Engineer: Backend. 
 - **Teaching Assistant** for ICCS101: Introduction to Programming (Python) course at Mahidol University International College.
