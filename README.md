@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year computer science student at Mahidol University International College. I'm passionate about software engineering and I'm currently looking for an internship opportunity to learn and grow as a software engineer. I am also interested in exploring other fields such as data science.
+I'm a 4th year computer science student at Mahidol University International College. I'm passionate about software engineering and I'm currently looking for an internship opportunity to learn and grow as a software engineer. I am also interested in exploring other fields such as data science.
 
 ## Skills✏️
 
